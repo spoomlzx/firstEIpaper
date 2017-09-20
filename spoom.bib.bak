@@ -1,0 +1,293 @@
+% This file was created with JabRef 2.10.
+% Encoding: GBK
+
+
+@InProceedings{bertier2010low,
+  Title                    = {Low-Cost Secret-Sharing in Sensor Networks},
+  Author                   = {Bertier, Marin and Mostefaoui, Achour and Tredan, Gilles},
+  Booktitle                = {High-Assurance Systems Engineering (HASE), 2010 IEEE 12th International Symposium on},
+  Year                     = {2010},
+  Organization             = {IEEE},
+  Pages                    = {1--9}
+}
+
+@InProceedings{Blakley1979,
+  Title                    = {Safeguarding cryptographic keys},
+  Author                   = {Blakley, G.R.},
+  Booktitle                = {Proceedings of the 1979 AFIPS National Computer Conference},
+  Year                     = {1979},
+
+  Address                  = {Monval, NJ, USA},
+  Pages                    = {313--317},
+  Publisher                = {AFIPS Press},
+
+  Added-at                 = {2009-12-14T10:58:50.000+0100},
+  Biburl                   = {http://www.bibsonomy.org/bibtex/2d299f27b0678618f833266cc435eb4e2/danfunky},
+  Interhash                = {49123889df9c6d90a367963e844a84e4},
+  Intrahash                = {d299f27b0678618f833266cc435eb4e2},
+  Keywords                 = {secret sharing},
+  Owner                    = {D047718},
+  Timestamp                = {2009-12-14T10:58:50.000+0100}
+}
+
+@Article{carman2000constraints,
+  Title                    = {Constraints and approaches for distributed sensor network security},
+  Author                   = {Carman, David W and Kruus, Peter S and Matt, Brian J},
+  Journal                  = {NAI Labs Technical Report},
+  Year                     = {2002},
+  Number                   = {010},
+  Volume                   = {00}
+}
+
+@InProceedings{conf/eurocrypt/CevallosFOR12,
+  Title                    = {Unconditionally-Secure Robust Secret Sharing with Compact Shares.},
+  Author                   = {Cevallos, Alfonso and Fehr, Serge and Ostrovsky, Rafail and Rabani, Yuval},
+  Booktitle                = {EUROCRYPT},
+  Year                     = {2012},
+  Editor                   = {Pointcheval, David and Johansson, Thomas},
+  Pages                    = {195-208},
+  Publisher                = {Springer},
+  Series                   = {Lecture Notes in Computer Science},
+  Volume                   = {7237},
+
+  Biburl                   = {http://www.bibsonomy.org/bibtex/2fab9eb32e2fc4d8fad5e920e2bf5ac06/dblp}
+}
+
+@InProceedings{chan2003random,
+  Title                    = {Random key predistribution schemes for sensor networks},
+  Author                   = {Chan, Haowen and Perrig, Adrian and Song, Dawn},
+  Booktitle                = {Security and Privacy, 2003. Proceedings. 2003 Symposium on},
+  Year                     = {2003},
+  Organization             = {IEEE},
+  Pages                    = {197--213}
+}
+
+@Article{claveirole2008securing,
+  Title                    = {Securing wireless sensor networks against aggregator compromises},
+  Author                   = {Claveirole, Thomas and Dias de Amorim, M and Abdalla, Michel and Viniotis, Yannis},
+  Journal                  = {Communications Magazine, IEEE},
+  Year                     = {2008},
+  Number                   = {4},
+  Pages                    = {134--141},
+  Volume                   = {46},
+
+  Publisher                = {IEEE}
+}
+
+@Article{csirmaz2013optimal,
+  Title                    = {Optimal information rate of secret sharing schemes on trees},
+  Author                   = {Csirmaz, L{\'a}szl{\'o} and Tardos, G{\'a}bor},
+  Journal                  = {Information Theory, IEEE Transactions on},
+  Year                     = {2013},
+  Number                   = {4},
+  Pages                    = {2527--2530},
+  Volume                   = {59},
+
+  Publisher                = {IEEE}
+}
+
+@Article{farras2014optimal,
+  Title                    = {Optimal Non-Perfect Uniform Secret Sharing Schemes},
+  Author                   = {Farr{\`a}s, Oriol and Hansen, Torben and Kaced, Tarik and Padr{\'o}, Carles},
+  Year                     = {2014}
+}
+
+@Article{harn2013group,
+  Title                    = {Group authentication},
+  Author                   = {Harn, Lein},
+  Journal                  = {Computers, IEEE Transactions on},
+  Year                     = {2013},
+  Number                   = {9},
+  Pages                    = {1893--1898},
+  Volume                   = {62},
+
+  Publisher                = {IEEE}
+}
+
+@Article{harn1993digital,
+  Title                    = {Digital signature with (t, n) shared verification based on discrete logarithms},
+  Author                   = {Harn, Lein},
+  Journal                  = {Electronics Letters},
+  Year                     = {1993},
+  Number                   = {24},
+  Pages                    = {2094--2095},
+  Volume                   = {29},
+
+  Publisher                = {IET}
+}
+
+@InProceedings{conf/fc/JhanwarS13,
+  Title                    = {Unconditionally-Secure Robust Secret Sharing with Minimum Share Size.},
+  Author                   = {Jhanwar, Mahabir Prasad and Safavi-Naini, Reihaneh},
+  Booktitle                = {Financial Cryptography},
+  Year                     = {2013},
+  Editor                   = {Sadeghi, Ahmad-Reza},
+  Pages                    = {96-110},
+  Publisher                = {Springer},
+  Series                   = {Lecture Notes in Computer Science},
+  Volume                   = {7859},
+
+  Added-at                 = {2013-08-21T00:00:00.000+0200},
+  Biburl                   = {http://www.bibsonomy.org/bibtex/29108063c7c7286eb89014f9467053421/dblp}
+}
+
+@Article{kurihara2008fast,
+  Title                    = {On a Fast (k,n,k)-Threshold Secret Sharing Scheme},
+  Author                   = {Kurihara, Jun and Kiyomoto, Shinsaku and Fukushima, Kazuhide and Tanaka, Toshiaki},
+  Journal                  = {IEICE Transactions on Fundamentals of Electronics, Communications and Computer Sciences},
+  Year                     = {2008},
+  Number                   = {9},
+  Pages                    = {2365--2378},
+  Volume                   = {91},
+
+  Publisher                = {The Institute of Electronics, Information and Communication Engineers}
+}
+
+@InCollection{kurihara2008new,
+  Title                    = {A new (k, n)-threshold secret sharing scheme and its extension},
+  Author                   = {Kurihara, Jun and Kiyomoto, Shinsaku and Fukushima, Kazuhide and Tanaka, Toshiaki},
+  Booktitle                = {Information Security},
+  Publisher                = {Springer},
+  Year                     = {2008},
+  Pages                    = {455--470}
+}
+
+@Article{Kurosawa:anysecretshare,
+  Title                    = {Almost Secure (1-Round, n-Channel) Message Transmission Scheme.},
+  Author                   = {Kurosawa, Kaoru and Suzuki, Kazuhiro},
+  Journal                  = {IACR Cryptology ePrint Archive},
+  Year                     = {2007},
+  Pages                    = {76},
+  Volume                   = {2007},
+
+  Added-at                 = {2011-12-05T00:00:00.000+0100},
+  Biburl                   = {http://www.bibsonomy.org/bibtex/28626835d47c15ff4dd42877109f6430a/dblp}
+}
+
+@InProceedings{conf/ieaaie/LinCCC10,
+  Title                    = {Near Optimal Secret Sharing for Information Leakage Maximization.},
+  Author                   = {Lin, Frank Yeong-Sung and Chu, Kuo-Chung and Chen, Pei-Yu and Chen, Guan-Wei},
+  Booktitle                = {IEA/AIE (3)},
+  Year                     = {2010},
+  Editor                   = {Garc¨ªa-Pedrajas, Nicol¨¢s and Herrera, Francisco and Fyfe, Colin and Ben¨ªtez, Jos¨¦ Manuel and Ali, Moonis},
+  Pages                    = {189-198},
+  Publisher                = {Springer},
+  Series                   = {Lecture Notes in Computer Science},
+  Volume                   = {6098},
+
+  Added-at                 = {2011-01-31T00:00:00.000+0100},
+  Biburl                   = {http://www.bibsonomy.org/bibtex/25e77dd7b482623749240928a47aacfb2/dblp}
+}
+
+@Article{liu2005establishing,
+  Title                    = {Establishing pairwise keys in distributed sensor networks},
+  Author                   = {Liu, Donggang and Ning, Peng and Li, Rongfang},
+  Journal                  = {ACM Transactions on Information and System Security (TISSEC)},
+  Year                     = {2005},
+  Number                   = {1},
+  Pages                    = {41--77},
+  Volume                   = {8},
+
+  Publisher                = {ACM}
+}
+
+@Article{journals/jss/LiuHYZ12,
+  Title                    = {Efficient (n, t, n) secret sharing schemes.},
+  Author                   = {Liu, Yan-Xiao and Harn, Lein and Yang, Ching-Nung and Zhang, Yuqing},
+  Journal                  = {Journal of Systems and Software},
+  Year                     = {2012},
+  Number                   = {6},
+  Pages                    = {1325-1332},
+  Volume                   = {85},
+
+  Abstract                 = {Recently, Harn and Lin introduced a notion of strong t-consistency of a (t, n) secret sharing scheme and proposed a strong (n, t, n) verifiable secret sharing (VSS). In this paper, we propose a strong (n, t, n) VSS which is more efficient than Harn and Lin's VSS. Using the same approach, we propose a (n, t, n) multi-secret sharing scheme (MSS) to allow shareholders to share n-t+1 secrets. Also, the proposed (n, t, n) MSS can be modified to include the verifiable feature. All proposed schemes are unconditionally secure and are based on Shamir's (t, n) secret sharing scheme.},
+  Added-at                 = {2013-07-20T00:00:00.000+0200},
+  Biburl                   = {http://www.bibsonomy.org/bibtex/2e4e01c42ebdc5a801b613322b496c9b5/dblp},
+  Ee                       = {http://dx.doi.org/10.1016/j.jss.2012.01.027},
+  Interhash                = {8a18b1c4597019b8b153a3d533770f2e},
+  Intrahash                = {e4e01c42ebdc5a801b613322b496c9b5}
+}
+
+@InProceedings{nagai2013key,
+  Title                    = {A key management system with a storage-saving secret sharing scheme in a sensor network},
+  Author                   = {Nagai, Yoshihide and Kang, Hyunho and Iwamura, Keiichi},
+  Booktitle                = {The International Conference on Electrical and Electronics Engineering, Clean Energy and Green Computing (EEECEGC2013)},
+  Year                     = {2013},
+  Organization             = {The Society of Digital Information and Wireless Communication},
+  Pages                    = {35--39}
+}
+
+@InProceedings{nagai2013storage,
+  Title                    = {A storage-saving secret sharing scheme suitable for sensor networks},
+  Author                   = {Nagai, Yoshihide and Kang, Hyunho and Iwamura, Keiichi},
+  Booktitle                = {Consumer Electronics (GCCE), 2013 IEEE 2nd Global Conference on},
+  Year                     = {2013},
+  Organization             = {IEEE},
+  Pages                    = {534--535}
+}
+
+@Article{Shamir:secret,
+  Title                    = {How to share a secret},
+  Author                   = {A. Shamir},
+  Journal                  = {Communications of the ACM},
+  Year                     = {1979},
+  Number                   = {11},
+  Pages                    = {612-613},
+  Volume                   = {22},
+
+  Owner                    = {Spoom},
+  Timestamp                = {2014.04.04}
+}
+
+@Article{tang2013optimal,
+  Title                    = {The optimal linear secret sharing scheme for any given access structure},
+  Author                   = {Tang, Chunming and Gao, Shuhong and Zhang, Chengli},
+  Journal                  = {Journal of Systems Science and Complexity},
+  Year                     = {2013},
+  Number                   = {4},
+  Pages                    = {634--649},
+  Volume                   = {26},
+
+  Publisher                = {Springer}
+}
+
+@InProceedings{zhang2005group,
+  Title                    = {Group rekeying for filtering false data in sensor networks: A predistribution and local collaboration-based approach},
+  Author                   = {Zhang, Wensheng and Cao, Guohong},
+  Booktitle                = {INFOCOM 2005. 24th Annual Joint Conference of the IEEE Computer and Communications Societies. Proceedings IEEE},
+  Year                     = {2005},
+  Organization             = {IEEE},
+  Pages                    = {503--514},
+  Volume                   = {1}
+}
+
+@InProceedings{zhang2007random,
+  Title                    = {A random perturbation-based scheme for pairwise key establishment in sensor networks},
+  Author                   = {Zhang, Wensheng and Tran, Minh and Zhu, Sencun and Cao, Guohong},
+  Booktitle                = {Proceedings of the 8th ACM international symposium on Mobile ad hoc networking and computing},
+  Year                     = {2007},
+  Organization             = {ACM},
+  Pages                    = {90--99}
+}
+
+@Article{zhu2006leap,
+  Title                    = {LEAP: Efficient security mechanisms for large-scale distributed sensor networks},
+  Author                   = {Zhu, Sencun and Setia, Sanjeev and Jajodia, Sushil},
+  Journal                  = {ACM Transactions on Sensor Networks (TOSN)},
+  Year                     = {2006},
+  Number                   = {4},
+  Pages                    = {500--528},
+  Volume                   = {2},
+
+  Publisher                = {ACM}
+}
+
+@InProceedings{zhu2003establishing,
+  Title                    = {Establishing pairwise keys for secure communication in ad hoc networks: A probabilistic approach},
+  Author                   = {Zhu, Sencun and Xu, Shouhuai and Setia, Sanjeev and Jajodia, Sushil},
+  Booktitle                = {Network Protocols, 2003. Proceedings. 11th IEEE International Conference on},
+  Year                     = {2003},
+  Organization             = {IEEE},
+  Pages                    = {326--335}
+}
+

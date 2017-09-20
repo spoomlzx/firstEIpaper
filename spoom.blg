@@ -1,0 +1,14 @@
+This is BibTeX, Version 0.99dThe top-level auxiliary file: spoom.aux
+The style file: IEEEtran.bst
+Database file #1: spoom.bib
+Repeated entry---line 294 of file spoom.bib
+ : @inproceedings{zhu2003establishing
+ :                                   ,
+I'm skipping whatever remains of this entry
+-- IEEEtran.bst version 1.13 (2008/09/30) by Michael Shell.
+-- http://www.michaelshell.org/tex/ieeetran/bibtex/
+-- See the "IEEEtran_bst_HOWTO.pdf" manual for usage information.
+Warning--empty journal in farras2014optimal
+
+Done.
+(There was 1 error message)
